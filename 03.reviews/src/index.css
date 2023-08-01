@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    main {
+        @apply h-[100vh] grid place-items-center text-[#063251] bg-[#ebf7ff];
+    }
+}
