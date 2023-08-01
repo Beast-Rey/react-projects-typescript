@@ -3,7 +3,7 @@
 ## 01. Birthday reminder
 
 ### Links
-- Live Site URL: 
+- Live Site URL: https://main--illustrious-rabanadas-6c5b0a.netlify.app/
 
 ### Built with
  -React typescript
