@@ -3,7 +3,7 @@ import Tours from "./components/Tours"
 import Loading from "./components/Loading"
 import { TourType } from "./types"
 
-const url = import.meta.env.VITE_API_URL
+const url = 'https://course-api.com/react-tours-project'
 
 export default function App() {
   const [loading, setLoading] = useState<boolean>(false)
